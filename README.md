@@ -28,7 +28,7 @@ open
 <ul><li>
   Create a new queue for users to join. You must pass a user role @mention. 
   <ul><li>
-    Ex: create @customs
+    Ex: +create @customs
   </ul></li>
 </ul></li>
 
@@ -46,7 +46,7 @@ new
 <ul><li>
   Gets and displays [x] number of players who have the lowest number of games played for the next lobbies. If no number is provided the default number will be used. When passing a custom number, it should be the first arguement with the password being after the number.
   <ul><li>
-    Ex: new [password] or new [x] [password]
+    Ex: +new [password] or new [x] [password]
   </ul></li>
 </ul></li>
 
@@ -54,7 +54,7 @@ recall
 <ul><li>
   Re-pings the last pulled group with a provided message.
   <ul><li>
-    Ex: recall This is an after thought.
+    Ex: +recall This is an after thought.
   </ul></li>
 </ul></li>
 
@@ -62,7 +62,7 @@ replace
 <ul><li>
   Calls a new player to replace one or more that is unable to participate after they have been called. Used by passing @mentions
   <ul><li>
-    Ex. replace @Johnny @May
+    Ex. +replace @Johnny @May
   </ul></li>
 </ul></li>
 
