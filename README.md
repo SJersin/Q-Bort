@@ -40,7 +40,7 @@ Open
 <ul><li>
   Create a new queue for users to join. You must pass a user role @mention. 
   <ul><li>
-    +create @customs
+    +open @customs
   </ul></li>
 </ul></li>
 
