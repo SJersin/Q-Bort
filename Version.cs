@@ -8,7 +8,7 @@ namespace QBort
 {
     public class Version
     {
-        public const string GetVersion  = "0.10.1";
+        public const string GetVersion  = "1.0.0";
     }
 
 }
